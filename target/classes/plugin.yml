@@ -1,0 +1,7 @@
+name: AntiSpam
+version: '1.0-SNAPSHOT'
+main: com.mbfsrv.antispam.AntiSpam
+api-version: '1.20'
+authors: [ke3TAro2037]
+description: Anti-Spam
+website: https://made-by-free.com
